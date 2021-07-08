@@ -1,0 +1,14 @@
+# Blender MTL File: 'greta.blend'
+# Material Count: 1
+
+newmtl Protagonista_Mujer.001
+Ns 582.564061
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.045455 0.045455 0.045455
+Ke 0.000000 0.000000 0.000000
+Ni 0.000000
+d 1.000000
+illum 2
+map_Bump textures\\Greta_normal.jpg
+map_Kd textures\\Greta_color.jpg
